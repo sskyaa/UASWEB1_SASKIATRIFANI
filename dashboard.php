@@ -125,7 +125,7 @@ session_start();
     <div class="sidebar">
         <h2>Dashboard</h2>
         <a href="#">Home</a>
-        <a href="#">List Produk</a>
+        <a href="dashboard.php?page=listproducts">List Produk</a>
         <a href="#">Customer</a>
         <a href="#">Transaksi</a>
         <a href="#">Laporan</a>
